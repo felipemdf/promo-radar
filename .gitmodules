@@ -1,0 +1,12 @@
+[submodule "promo-radar-api"]
+	path = promo-radar-api
+	url = https://github.com/felipemdf/promo-radar-api.git
+[submodule "promo-radar-frontend"]
+	path = promo-radar-frontend
+	url = https://github.com/felipemdf/promo-radar-frontend.git
+[submodule "promo-radar-ia"]
+	path = promo-radar-ia
+	url = https://github.com/felipemdf/promo-radar-ia.git
+[submodule "promo-radar-scraper"]
+	path = promo-radar-scraper
+	url = https://github.com/felipemdf/promo-radar-scraper.git
