@@ -1,9 +1,0 @@
-[submodule "web"]
-	path = web
-	url = https://github.com/felipemdf/promo-radar-web.git
-[submodule "scraper"]
-	path = scraper
-	url = https://github.com/felipemdf/promo-radar-scraper.git
-[submodule "ai"]
-	path = ai
-	url = https://github.com/felipemdf/promo-radar-ai.git
